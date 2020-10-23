@@ -3,8 +3,6 @@
 <h5>⏰ 23 Friday, 00:00&emsp;|&emsp;Latest follower – <a href="https://github.com/nootz1999/" target="_blank">Nutan Kushwah</a>👋</h5>
 <hr>
 
-<img src="https://media.giphy.com/media/WPnhLk3ItjPVxfePZb/giphy.gif" width="32"> If you think you can do it you're right, if You think you cannot, you're damn right.
-
 ### - Languages Of Interest...
 
 <p>
@@ -19,9 +17,7 @@
 
 <em><b> You don't like JavAsCripT ?<b></em> <br>
 <img src="https://media.giphy.com/media/d9IWM2RLvDCv7Cn3Yk/giphy.gif" width="160"> 
-
-
-
+<br><br>
 <em><b>I love connecting with different people</b> so if you wanna to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
