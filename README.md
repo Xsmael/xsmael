@@ -18,7 +18,7 @@
 <em><b> You don't like JavAsCripT ?<b></em> <br>
 <img src="https://media.giphy.com/media/d9IWM2RLvDCv7Cn3Yk/giphy.gif" width="160"> 
 <br><br>
-<em><b>I love connecting with different people</b> so if you wanna to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>Anyways, I love connecting with different people</b> so if you wanna to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 <!-- Here is the TRASh
