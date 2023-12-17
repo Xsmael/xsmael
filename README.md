@@ -3,7 +3,7 @@
 <h5>⏰ 23 Friday, 00:00&emsp;|&emsp;Latest follower – <a href="https://github.com/nootz1999/" target="_blank">Nutan Kushwah</a>👋</h5>
 <hr>
 
-### - Languages Of Interest...
+### - Languages/Framework 
 
 <p>
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
